@@ -3,12 +3,12 @@
     "Name": "Integrity Earthurns",
     "Image": "https://skcrane.files.wordpress.com/2019/11/integrity_hero-link.jpg",
     "Description": "I don't lol",
-    "Products": [
+    "Nodes": [
       {
         "Name": "Floral",
         "Image": "https://skcrane.files.wordpress.com/2019/11/integrity_hero-link.jpg",
         "Description": "I don't lol",
-        "Products":[
+        "Nodes":[
           {
             "Name": "IDK",
             "Image": "",
@@ -22,12 +22,12 @@
     "Name": "Non-integrity Earthurns",
     "Image": "https://skcrane.files.wordpress.com/2019/11/integrity_hero-link.jpg",
     "Description": "I don't lol",
-    "Products": [
+    "Nodes": [
       {
         "Name": "Floral",
         "Image": "https://skcrane.files.wordpress.com/2019/11/integrity_hero-link.jpg",
         "Description": "I don't lol",
-        "Products":[
+        "Nodes":[
           {
             "Name": "IDK",
             "Image": "",
