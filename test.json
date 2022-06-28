@@ -3,36 +3,12 @@
     "Name": "Integrity Earthurns",
     "Image": "https://skcrane.files.wordpress.com/2019/11/integrity_hero-link.jpg",
     "Description": "I don't lol",
-    "Product": [
+    "Products": [
       {
         "Name": "Economical and biodegradable urn produced from the bark of the mulberry tree",
         "Image": "",
         "Description": "Lol idk",
-        "Product": [
-          {
-            "Name": "Floral",
-            "Image": "https://skcrane.files.wordpress.com/2019/11/integrity02_slide.jpg?w=700",
-            "Description": "20.45",
-          },
-          {
-            "Name": "Natural",
-            "Image": "https://skcrane.files.wordpress.com/2019/11/integrity03_slide.jpg?w=700",
-            "Description": "20.45",
-          }
-        ]
-      }
-    ]
-  },
-   {
-    "Name": "Integrity Earthurns",
-    "Image": "https://skcrane.files.wordpress.com/2019/11/integrity_hero-link.jpg",
-    "Description": "I don't lol",
-    "Product": [
-      {
-        "Name": "Economical and biodegradable urn produced from the bark of the mulberry tree",
-        "Image": "",
-        "Description": "Lol idk",
-        "Product": [
+        "Products": [
           {
             "Name": "Floral",
             "Image": "https://skcrane.files.wordpress.com/2019/11/integrity02_slide.jpg?w=700",
