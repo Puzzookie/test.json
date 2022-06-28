@@ -6,7 +6,19 @@
     "Nodes": [
       {
         "Name": "Floral",
-        "Image": "https://skcrane.files.wordpress.com/2019/11/integrity_hero-link.jpg",
+        "Image": "https://skcrane.files.wordpress.com/2019/11/integrity02_slide.jpg?w=700",
+        "Description": "I don't lol",
+        "Nodes":[
+          {
+            "Name": "IDK",
+            "Image": "",
+            "Description":""
+          }
+        ]
+      },
+      {
+        "Name": "Natural",
+        "Image": "https://skcrane.files.wordpress.com/2019/11/integrity03_slide.jpg",
         "Description": "I don't lol",
         "Nodes":[
           {
