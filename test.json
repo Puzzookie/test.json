@@ -5,9 +5,16 @@
     "Description": "I don't lol",
     "Products": [
       {
-        "Name": "Integrity Earthurns",
+        "Name": "Floral",
         "Image": "https://skcrane.files.wordpress.com/2019/11/integrity_hero-link.jpg",
-        "Description": "I don't lol"
+        "Description": "I don't lol",
+        "Products":[
+          {
+            "Name": "IDK",
+            "Image": "",
+            "Description":""
+          }
+        ]
       }
     ]
   }
